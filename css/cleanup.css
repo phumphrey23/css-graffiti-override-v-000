@@ -1,7 +1,8 @@
 /*selects all class descendents of wall element*/
-#wall *{
+div#wall *{
   display: none;
 }
+/*
 #wall div#tag-2{
   display: none;
 }
@@ -9,3 +10,4 @@
 div#wall #tag-3.slick.wicked{
   display: none;
 }
+*/
