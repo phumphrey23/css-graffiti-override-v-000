@@ -1,5 +1,5 @@
 /*selects all class descendents of wall element*/
-div#wall *{
+#wall *{
   display: none;
 }
 /*
