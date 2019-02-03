@@ -5,3 +5,7 @@
 #parent *{
   display: none;
 }
+
+div.parent div > #tag-7{
+  display: none;
+}
