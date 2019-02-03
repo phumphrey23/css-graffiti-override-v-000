@@ -1,4 +1,9 @@
-/* write your override styles here */
+/*selects all class descendents of wall element*/
 #wall *{
   display: none;
 }
+#wall .tag-2{
+  display: none;
+}
+tag-2
+tag-3
