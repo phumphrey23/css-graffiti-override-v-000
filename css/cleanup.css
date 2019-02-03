@@ -2,24 +2,7 @@
 #wall *{
   display: none;
 }
-#wall .tag-1 {
+#parent *{
   display: none;
 }
-#wall #tag-2 {
-    display: none;
-}
-#wall #tag-3.slick {
-    display: none;
-}
-#wall #tag-4 {
-    display: none;
-}
-div#wall .parent #tag-5.slick {
-    display: none;
-}
-div#wall div.parent div:last-child div#tag-6 {
-    display: none;
-}
-body div#wall div.parent div > #tag-7.slick {
-    display: none;
-}
+
