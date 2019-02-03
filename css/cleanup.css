@@ -2,6 +2,6 @@
 #wall *{
   display: none;
 }
-#wall + #tag-2{
+#wall div#tag-2{
   display: none;
 }
