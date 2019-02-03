@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall{
+#wall *{
   display: none;
 }
 #wall .tag-1 {
